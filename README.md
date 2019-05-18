@@ -13,4 +13,4 @@
 - materials to make a box
 
 ## Circuit 
-![img2](https://github.com/ArtiomBoo/Arduino-3d_led_cube/blob/master/images/di-dout-circuit.png)
+![img2](https://github.com/ArtiomBoo/Arduino-3d_led_cube/blob/master/images/din-dout-circuit.png)
